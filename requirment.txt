@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+tqdm
+mediapipe
+json5
+pathlib
